@@ -4,7 +4,7 @@ title: Peer-Reviewed Publications
 description: An optional about page for Scriptor Jekyll theme
 feature_image: 
 ---
-Prasky, E. G., Co-Producing a Shared Understanding of Shark Depredation Through Public Participation. (2023). Master’s Thesis, Northeastern University. 
+**Prasky, E. G.**, Co-Producing a Shared Understanding of Shark Depredation Through Public Participation. (2023). Master’s Thesis, Northeastern University. 
 
 **Prasky, E. G.**, Drymon, J. M., Karnauskas, M., Anderson, A. Q., Gibbs, S. L., Grabowski, J. H., Jargowsky, A. E., McAree, D. M., Osowski, A. R., Swinea, S. H., & Scyphers, S. B. (2023). Depredation influences anglers’ perceptions on coastal shark management and conservation in the United States Gulf of Mexico. Frontiers in Conservation Science, 4, 1271223. https://doi.org/10.3389/fcosc.2023.1271223
 
