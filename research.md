@@ -9,9 +9,9 @@ Prasky, E. G., Co-Producing a Shared Understanding of Shark Depredation Through 
 
 Prasky, E. G., Drymon, J. M., Karnauskas, M., Anderson, A. Q., Gibbs, S. L., Grabowski, J. H., Jargowsky, A. E., McAree, D. M., Osowski, A. R., Swinea, S. H., & Scyphers, S. B. (2023). Depredation influences anglers’ perceptions on coastal shark management and conservation in the United States Gulf of Mexico. Frontiers in Conservation Science, 4, 1271223. https://doi.org/10.3389/fcosc.2023.1271223
 
-Mitchell, J. D, Drymon, J. M, Vardon, J., Coulson, P. G., Simpfendorfer, C. A., Scyphers, S. B., Kajiura, S. M., Hoel, K., Williams, S., Ryan, K. L., Barnett, A., Heupel, M. R., Chin, A., Navarro, M., Langlois, T., Ajemian, M. J., Gilman, E., Prasky, E., Jackson, G. (2023). Shark depredation: future directions in research and management. Reviews in Fish Biology and Fisheries 33:475-499. DOI: 10.1007/s11160-022-09732-9
+Mitchell, J. D, Drymon, J. M, Vardon, J., Coulson, P. G., Simpfendorfer, C. A., Scyphers, S. B., Kajiura, S. M., Hoel, K., Williams, S., Ryan, K. L., Barnett, A., Heupel, M. R., Chin, A., Navarro, M., Langlois, T., Ajemian, M. J., Gilman, E., Prasky, E., Jackson, G. (2023). Shark depredation: future directions in research and management. Reviews in Fish Biology and Fisheries 33:475-499. https://doi: 10.1007/s11160-022-09732-9
 
-Connolly, B. A., Bryan S. W., Cara L. M., Prasky, E. (2022). “Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus Occidentalis (Buttonbush) Rubiaceae.” Ecological Restoration 40(1):15–17. DOI: https://doi.org/10.3368/er.40.1.15
+Connolly, B. A., Bryan S. W., Cara L. M., Prasky, E. (2022). “Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus Occidentalis (Buttonbush) Rubiaceae.” Ecological Restoration 40(1):15–17. https://doi.org/10.3368/er.40.1.15
 
 **Technical Reports:**
 
