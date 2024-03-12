@@ -13,7 +13,7 @@ Mitchell, J. D, Drymon, J. M, Vardon, J., Coulson, P. G., Simpfendorfer, C. A., 
 
 Connolly, B. A., Bryan S. W., Cara L. M., **Prasky, E.** (2022). “Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus Occidentalis (Buttonbush) Rubiaceae.” Ecological Restoration 40(1):15–17. https://doi.org/10.3368/er.40.1.15
 
-****Technical Reports:****
+**Technical Reports:**
 
 Gervasi, C. L., McPherson, M., Karnauskas, M., Drymon, J. M., **Prasky, E.**, Aycock, H. (2023). Using stakeholder knowledge to better understand uncertainty in the Gulf of Mexico red snapper stock assessment model. SEDAR74-RW-01. SEDAR, North Charleston, SC. 27 pp.
 
