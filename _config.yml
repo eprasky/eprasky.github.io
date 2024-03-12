@@ -18,7 +18,7 @@ description: "Research for understanding Human-Wildlife conflicts"
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: ""
 
 # Favicon
 favicon: images/favicon.png
@@ -40,8 +40,7 @@ navigation:
     url: /Consulting/
   - text: Contact
     url: /Contact/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+ 
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
