@@ -7,7 +7,7 @@ feature_image:
 Drymon, J. M., Jargowsky, A. E., **Prasky, E. G.**, Camp, E. V., Oliphant, A., Powers, S. P., Scyphers, S. B. (2024). Depredation: an old conflict with the sea. Fish and Fisheries. In review.
 Prasky, E. G., Co-Producing a Shared Understanding of Shark Depredation Through Public Participation. (2023). Master’s Thesis, Northeastern University. 
 
-<ins>**Prasky, E. G.**</ins>, Drymon, J. M., Karnauskas, M., Anderson, A. Q., Gibbs, S. L., Grabowski, J. H., Jargowsky, A. E., McAree, D. M., Osowski, A. R., Swinea, S. H., & Scyphers, S. B. (2023). Depredation influences anglers’ perceptions on coastal shark management and conservation in the United States Gulf of Mexico. Frontiers in Conservation Science, 4, 1271223. https://doi.org/10.3389/fcosc.2023.1271223
+**Prasky, E. G.**, Drymon, J. M., Karnauskas, M., Anderson, A. Q., Gibbs, S. L., Grabowski, J. H., Jargowsky, A. E., McAree, D. M., Osowski, A. R., Swinea, S. H., & Scyphers, S. B. (2023). Depredation influences anglers’ perceptions on coastal shark management and conservation in the United States Gulf of Mexico. Frontiers in Conservation Science, 4, 1271223. https://doi.org/10.3389/fcosc.2023.1271223
 
 Mitchell, J. D, Drymon, J. M, Vardon, J., Coulson, P. G., Simpfendorfer, C. A., Scyphers, S. B., Kajiura, S. M., Hoel, K., Williams, S., Ryan, K. L., Barnett, A., Heupel, M. R., Chin, A., Navarro, M., Langlois, T., Ajemian, M. J., Gilman, E., **Prasky, E.**, Jackson, G. (2023). Shark depredation: future directions in research and management. Reviews in Fish Biology and Fisheries 33:475-499. https://doi: 10.1007/s11160-022-09732-9
 
