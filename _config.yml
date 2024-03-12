@@ -12,7 +12,7 @@ lang: en-US
 title: "Evan G. Prasky"
 
 # A description of your site for meta tag, search engine results.
-description: "Research for understanding Human-Wildlife conflicts"
+description: "Research for understanding human-wildlife conflicts"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
