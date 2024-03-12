@@ -31,11 +31,11 @@ navigation:
   - text: Home
     url: /
   - text: About Me
-    url: /about/
+    url: /about-me/
   - text: Research
-    url: /style-guide/
+    url: /research/
   - text: Outreach
-    url: /tags/
+    url: /outreach/
   - text: Consulting
     url: /Consulting/
   - text: Contact
