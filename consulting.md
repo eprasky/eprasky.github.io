@@ -9,6 +9,6 @@ innovative software tools to help participants see conflicts through a different
 effective group facilitation, ensuring productive sessions and meaningful results that resonate long after the event concludes. Elevate your group's potential with my expert facilitation 
 consulting services.
 
-**If you or an organisation is interested, please reach out**
+**If you or an organization is interested, please reach out**
 
 ---
