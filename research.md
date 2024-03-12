@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About this blog
+title: Peer-Reviewed Publications
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+feature_image: 
 ---
+Drymon, J. M., Jargowsky, A. E., Prasky, E. G., Camp, E. V., Oliphant, A., Powers, S. P., Scyphers, S. B. (2024). Depredation: an old conflict with the sea. Fish and Fisheries. In review.
+Prasky, E. G., Co-Producing a Shared Understanding of Shark Depredation Through Public Participation. (2023). Master’s Thesis, Northeastern University. 
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Prasky, E. G., Drymon, J. M., Karnauskas, M., Anderson, A. Q., Gibbs, S. L., Grabowski, J. H., Jargowsky, A. E., McAree, D. M., Osowski, A. R., Swinea, S. H., & Scyphers, S. B. (2023). Depredation influences anglers’ perceptions on coastal shark management and conservation in the United States Gulf of Mexico. Frontiers in Conservation Science, 4, 1271223. https://doi.org/10.3389/fcosc.2023.1271223
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Mitchell, J. D, Drymon, J. M, Vardon, J., Coulson, P. G., Simpfendorfer, C. A., Scyphers, S. B., Kajiura, S. M., Hoel, K., Williams, S., Ryan, K. L., Barnett, A., Heupel, M. R., Chin, A., Navarro, M., Langlois, T., Ajemian, M. J., Gilman, E., Prasky, E., Jackson, G. (2023). Shark depredation: future directions in research and management. Reviews in Fish Biology and Fisheries 33:475-499. DOI: 10.1007/s11160-022-09732-9
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Connolly, B. A., Bryan S. W., Cara L. M., Prasky, E. (2022). “Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus Occidentalis (Buttonbush) Rubiaceae.” Ecological Restoration 40(1):15–17. DOI: https://doi.org/10.3368/er.40.1.15
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+**Technical Reports:**
 
-*Thank You for reading!*
+Gervasi, C. L., McPherson, M., Karnauskas, M., Drymon, J. M., Prasky, E., Aycock, H. (2023). Using stakeholder knowledge to better understand uncertainty in the Gulf of Mexico red snapper stock assessment model. SEDAR74-RW-01. SEDAR, North Charleston, SC. 27 pp.
+
+Drymon, J. M., Osowski, A., Jefferson, A., Anderson, A., McAree, D., Scyphers, S., Prasky, E., Swinea, S., Gibbs, S., Karnauskas, M., Gervasi, C. (2022). Co-producing a shared characterization of depredation in the Gulf of Mexico reef fish fishery: 2022 workshop summary report. SEDAR74-DW-32. SEDAR, North Charleston, SC. 25 pp.
+
