@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /
   - text: About Me
-    url: /about-me/
+    url: /about/
   - text: Research
     url: /research/
   - text: Outreach
