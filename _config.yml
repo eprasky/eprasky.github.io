@@ -35,9 +35,9 @@ navigation:
   - text: Research
     url: /research
   - text: Consulting
-    url: /Consulting
+    url: /consulting
   - text: Contact
-    url: /Contact
+    url: /contact
  
 
 # The shortname for your Disqus site to enable comments.
