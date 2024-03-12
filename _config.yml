@@ -31,15 +31,15 @@ navigation:
   - text: Home
     url: /
   - text: About Me
-    url: /about/
+    url: /about
   - text: Research
-    url: /research/
+    url: /research
   - text: Outreach
-    url: /outreach/
+    url: /outreach
   - text: Consulting
-    url: /Consulting/
+    url: /Consulting
   - text: Contact
-    url: /Contact/
+    url: /Contact
  
 
 # The shortname for your Disqus site to enable comments.
