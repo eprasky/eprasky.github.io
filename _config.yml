@@ -32,10 +32,10 @@ navigation:
     url: /
   - text: About Me
     url: /about
-  - text: Research
-    url: /research
   - text: Consulting
     url: /consulting
+  - text: Research
+    url: /research
   - text: Contact
     url: /contact
  
