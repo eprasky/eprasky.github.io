@@ -1,6 +1,10 @@
 {% for link in site.data.social.links %}
 <a href="{{ link.url }}" target="_blank" rel="noopener">
-  <span class="{{ link.icon }}" aria-hidden="true"></span>
+  {% if link.title == "Bluesky" %}
+    <img src="/images/Bluesky.png" alt="Bluesky" style="width: 1.25em; height: 1.25em; vertical-align: middle; margin-bottom: 2px;" />
+  {% else %}
+    <span class="{{ link.icon }}" aria-hidden="true"></span>
+  {% endif %}
   <span class="screen-reader-text">{{ link.title }}</span>
 </a>
 {% endfor %}
