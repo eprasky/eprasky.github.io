@@ -1,60 +1,51 @@
-# Scriptor
-> Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
+# Evan G. Prasky - Research Website
 
-[Live Demo][demo] &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
+Personal research website for Evan G. Prasky, PhD Student in Marine Ecology at the University of Massachusetts Amherst.
 
-[![Theme preview image](/images/scriptor-jekyll.png)][demo]
+## About
 
-[demo]: https://scriptor-jekyll.netlify.app/
+This website showcases my research on human-wildlife conflicts and depredation in marine ecosystems. It includes:
 
-# Premium Jekyll Themes
+- Research publications and technical reports
+- Information about my academic background and expertise
+- Consulting and collaboration opportunities
+- Contact information for professional inquiries
 
-You can find our premium Jekyll themes here -> [jekyllthemes.io](https://jekyllthemes.io/developers/just-good-themes)
+## Research Focus
 
-## Features
+My work centers on **depredation** - the phenomenon where hooked fish are consumed by predators before anglers can land them. This research provides insights into:
 
-- Responsive design
-- Archive organized by [tags](https://scriptor-jekyll.netlify.com/tags/)
-- Disqus Comments
-- Accent color options
-- [Prism](https://prismjs.com/) syntax highlighter
+- Human-wildlife conflict dynamics in marine environments
+- Angler perceptions and responses to marine predators
+- Policy implications for shark conservation and management
+- Stakeholder engagement in marine resource management
 
-## Local Installation
+## Website Features
 
-How to set up and run this theme locally in a Jekyll site.
+- Responsive design for all devices
+- Clean, professional layout
+- Easy navigation to research areas
+- Contact forms and social media integration
+- Publication listings with DOI links
 
-_Note: This theme cannot be configured and installed as a theme, however you can still use this repo as a theme with your own content in it._
+## Local Development
 
-Clone the repo or fork.
+To run this website locally:
 
-Set up Jekyll -please follow the official documentation that can be found on the [Jekyll docs](https://jekyllrb.com/docs/).
+1. Install Jekyll following the [official documentation](https://jekyllrb.com/docs/)
+2. Clone this repository
+3. Run `bundle install` to install dependencies
+4. Run `bundle exec jekyll serve` to start the local server
+5. Visit `http://localhost:4000` in your browser
 
-Navigate to the repo and run `bundle install` to install the dependencies.
+## Contact
 
-Then run `bundle exec jekyll serve` to start the Jekyll server.
+For research collaborations, consulting inquiries, or general questions:
 
-## Deployment
+- **Email:** eprasky[at]gmail.com
+- **LinkedIn:** [Evan Prasky](https://www.linkedin.com/in/evan-prasky-815ab5108/)
+- **GitHub:** [eprasky](https://github.com/eprasky)
 
-### Local Instalation
+## License
 
-To set up Jekyll on local machine please follow the official documentation that can be found here -> https://jekyllrb.com/docs/.
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-### Manual Deployment
-
-Jekyll outputs your static site to the `_site` directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live.
-
-### Netlify
-
-This theme is prepared to be hosted on [Netlify](https://www.netlify.com/). All you need to do is create a new private repository on GitHub or GitLab. Upload the theme to the repository and link your repo to Netlify. Please check [this link](https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/#step-2-link-to-your-github) with the step-by-step guidelines.
-
-### Amazon S3
-
-If you want to host your site on Amazon S3, you can do so by using the [s3_website application](https://github.com/laurilehmijoki/s3_website). It will push your site to Amazon S3, where it can be served like any web server, dynamically scaling to almost unlimited traffic.
-
-Also, please check the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
-## Licenses
-
-All files and directories are licensed under the [MIT](https://opensource.org/licenses/mit-license.php) unless explicitly stated.
+This website is built using the Scriptor Jekyll theme, which is licensed under the MIT License.

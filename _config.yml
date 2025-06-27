@@ -12,16 +12,16 @@ lang: en-US
 title: "Evan G. Prasky"
 
 # A description of your site for meta tag, search engine results.
-description: "Research for understanding human-wildlife conflicts"
+description: "PhD Student in Marine Ecology - Research on human-wildlife conflicts and depredation in marine ecosystems"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: ""
+url: "https://eprasky.github.io"
 
 # Favicon
-favicon: images/Evan wsnapper.jpg
+favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
@@ -32,23 +32,23 @@ navigation:
     url: /
   - text: About Me
     url: /about
-  - text: Consulting
-    url: /consulting
   - text: Research
     url: /research
+  - text: Consulting
+    url: /consulting
   - text: Contact
     url: /contact
  
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+# disqus: 
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: ""
+  content: "© 2024 Evan G. Prasky. All rights reserved."
   has_social: true
 
 # Plugins

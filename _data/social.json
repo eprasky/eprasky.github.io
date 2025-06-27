@@ -19,6 +19,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/evan-prasky-815ab5108/"
+    },
+    {
+      "title": "Bluesky",
+      "icon": "fa-cloud",
+      "url": "https://bsky.app/profile/eprasky.bsky.social"
     }
   ]
 }
