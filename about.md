@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 description: PhD Student in Marine Ecology at UMass Amherst
-feature_image: images/about me.jpg
 ---
 
 ## Evan G. Prasky
