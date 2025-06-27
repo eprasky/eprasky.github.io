@@ -4,20 +4,61 @@ title: Publications & Research
 description: Peer-reviewed publications and technical reports in marine ecology and human-wildlife conflict
 feature_image: 
 ---
-Drymon, J. M., Jargowsky, A. E., **Prasky, E. G.**, Camp, E. V., Oliphant, A., Powers, S. P., & Scyphers, S. B. (2024). Depredation: An old conflict with the sea. Fish and Fisheries, 00, 1–5. https://doi.org/10.1111/faf.12846
 
+## Google Scholar Profile
+[View my Google Scholar profile](https://scholar.google.com/citations?user=DRsdaYQAAAAJ&hl=en)
 
-**Prasky, E. G.**, Co-Producing a Shared Understanding of Shark Depredation Through Public Participation. (2023). Master's Thesis, Northeastern University. 
+---
 
-**Prasky, E. G.**, Drymon, J. M., Karnauskas, M., Anderson, A. Q., Gibbs, S. L., Grabowski, J. H., Jargowsky, A. E., McAree, D. M., Osowski, A. R., Swinea, S. H., & Scyphers, S. B. (2023). Depredation influences anglers' perceptions on coastal shark management and conservation in the United States Gulf of Mexico. Frontiers in Conservation Science, 4, 1271223. https://doi.org/10.3389/fcosc.2023.1271223
+### Peer-Reviewed Publications
 
-Mitchell, J. D, Drymon, J. M, Vardon, J., Coulson, P. G., Simpfendorfer, C. A., Scyphers, S. B., Kajiura, S. M., Hoel, K., Williams, S., Ryan, K. L., Barnett, A., Heupel, M. R., Chin, A., Navarro, M., Langlois, T., Ajemian, M. J., Gilman, E., **Prasky, E.**, Jackson, G. (2023). Shark depredation: future directions in research and management. Reviews in Fish Biology and Fisheries 33:475-499. https://doi:10.1007/s11160-022-09732-9
+- **[Shark depredation: future directions in research and management](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:u-x6o8ySG0sC)**  
+JD Mitchell, JM Drymon, J Vardon, PG Coulson, CA Simpfendorfer, ...  
+*Reviews in Fish Biology and Fisheries* 33(2): 475-499, 2023  
+Cited by: [25](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=11887462180653059019)
 
-Connolly, B. A., Bryan S. W., Cara L. M., **Prasky, E.** (2022). "Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus Occidentalis (Buttonbush) Rubiaceae." Ecological Restoration 40(1):15–17. https://doi.org/10.3368/er.40.1.15
+- **[Depredation influences anglers' perceptions on coastal shark management and conservation in the United States Gulf of Mexico](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:9yKSN-GCB0IC)**  
+EG Prasky, JM Drymon, M Karnauskas, AQ Anderson, SL Gibbs, ...  
+*Frontiers in Conservation Science* 4: 1271223, 2023  
+Cited by: [4](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=13071448284169537442)
 
-**Technical Reports:**
+- **[Depredation: An old conflict with the sea](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:UeHWp8X0CEIC)**  
+JM Drymon, AE Jargowsky, EG Prasky, EV Camp, A Oliphant, SP Powers, ...  
+*Fish and Fisheries* 25(5): 806-810, 2024  
+Cited by: [3](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=11838007728757140266)
 
-Gervasi, C. L., McPherson, M., Karnauskas, M., Drymon, J. M., **Prasky, E.**, Aycock, H. (2023). Using stakeholder knowledge to better understand uncertainty in the Gulf of Mexico red snapper stock assessment model. SEDAR74-RW-01. SEDAR, North Charleston, SC. 27 pp.
+- **[Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus occidentalis (Buttonbush) Rubiaceae](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:u5HHmVD_uO8C)**  
+BA Connolly, BS Windmiller, CL McElroy, E Prasky  
+*Ecological Restoration* 40(1): 15-17, 2022
 
-Drymon, J. M., Osowski, A., Jefferson, A., Anderson, A., McAree, D., Scyphers, S., **Prasky, E.**, Swinea, S., Gibbs, S., Karnauskas, M., Gervasi, C. (2022). Co-producing a shared characterization of depredation in the Gulf of Mexico reef fish fishery: 2022 workshop summary report. SEDAR74-DW-32. SEDAR, North Charleston, SC. 25 pp.
+---
+
+### Technical Reports
+
+- **[Co-producing a shared characterization of depredation in the Gulf of Mexico reef fish fishery: 2022 workshop summary report](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:IjCSPb-OGe4C)**  
+JM Drymon, AR Osowski, AE Jefferson, AQ Anderson, DM McAree, ...  
+*SEDAR74-DW 32, 25*, 2022  
+Cited by: [5](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=17615368223208444327)
+
+- **[Co-Producing a Shared Characterization of Depredation in the Gulf of Mexico Reef Fish Fishery: Comprehensive Report](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:d1gkVwhDpl0C)**  
+JM Drymon, A Osowski, A Jargowsky, M Ajemian, A Collins, B Fluech, ...  
+2022  
+Cited by: [2](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=3049211875762688319)
+
+- **[Using stakeholder knowledge to better understand uncertainty in the Gulf of Mexico red snapper stock assessment model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:Tyk-4Ss8FVUC)**  
+CL Gervasi, M McPherson, M Karnauskas, MJ Drymon, E Prasky, ...  
+*SEDAR74-RW-01*, 2023
+
+---
+
+### Thesis
+
+- **[Co-producing a shared understanding of shark depredation through public participation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:2osOgNQ5qMEC)**  
+EG Prasky  
+*Northeastern University*, 2023  
+Cited by: [1](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=16300285255224522258)
+
+---
+
+*For the most up-to-date list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=DRsdaYQAAAAJ&hl=en).*
 
