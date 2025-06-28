@@ -1,6 +1,6 @@
 # Evan G. Prasky - Research Website
 
-Personal research website for Evan G. Prasky, PhD Student in Marine Ecology at the University of Massachusetts Amherst.
+Personal research website for Evan G. Prasky, PhD Student in Environmental Conservation with a focus on fish and fisheries using participatory modeling at the University of Massachusetts Amherst.
 
 ## About
 
