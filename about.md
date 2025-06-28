@@ -6,23 +6,23 @@ description: PhD Student in Marine Ecology at UMass Amherst
 
 ## Evan G. Prasky
 
-**PhD Student in Marine Ecology**  
+**PhD Student in Environmental Conservation**  
 *University of Massachusetts Amherst*
 
-I am a PhD student at UMass Amherst studying marine ecology with a focus on human-wildlife conflicts and depredation in marine ecosystems. My research examines the complex interactions between recreational anglers and marine predators, particularly sharks, in the Gulf of Mexico.
+I am a PhD student at the University of Massachusetts Amherst, studying complex human-wildlife conflicts with a focus on participatory modeling and depredation in aquatic ecosystems. My research examines the complex relationships between recreational anglers and the perceived threats they may encounter within their ecosystems.
 
 ### Research Focus
 
 My work centers on **depredation** - the phenomenon where hooked fish are partially or wholly consumed by predators before being landed by anglers. This provides a unique lens through which to study:
 
 - Angler perceptions and responses to marine predators
-- Human-wildlife conflict dynamics in marine environments
-- Policy implications for coastal shark management and conservation
-- Socio-ecological systems in marine fisheries
+- Human-wildlife conflict dynamics in the aquatic environment
+- Policy implications for coastal shark and seal management and conservation
+- Socio-ecological systems in aquatic fisheries
 
 ### Background
 
-I received my **Master's degree in Marine and Environmental Science** from Northeastern University in 2023, where my thesis focused on assessing shark depredation in the Gulf of Mexico. My research employs ethnographic approaches to understand angler perceptions and the complexities of marine ecosystems.
+I received my **Master's degree in Marine and Environmental Science** from Northeastern University in 2023, where my thesis focused on assessing shark depredation in the Gulf of Mexico. My research employs ethnographic approaches to understand angler perceptions and the complexities of aquatic ecosystems.
 
 ### Professional Experience
 
@@ -32,15 +32,14 @@ I received my **Master's degree in Marine and Environmental Science** from North
 
 ### Research Approach
 
-I specialize in using **ethnographic methods** to understand stakeholder perspectives and co-produce knowledge about complex socio-ecological systems. My work bridges the gap between scientific research and stakeholder engagement, ensuring that management decisions are informed by both ecological data and human dimensions.
+I specialize in using ethnographic methods to understand stakeholder perspectives and co-produce knowledge about complex socio-ecological systems. My work bridges the gap between scientific research and stakeholder engagement, ensuring that management decisions are informed by both ecological data and human dimensions.
 
 ### Current Projects
 
-- Quantifying depredation rates and patterns in Gulf of Mexico fisheries
+- Quantifying depredation rates and patterns in the Northeast U.S. Large Marine Ecosystem
 - Understanding angler responses to depredation events
-- Developing stakeholder engagement frameworks for marine conservation
-- Assessing the effectiveness of shark management policies
+- Developing stakeholder engagement frameworks for aquatic conservation
 
 ### Contact
 
-I'm always interested in collaborations and discussions about marine ecology, human-wildlife conflicts, and conservation. Feel free to reach out through the [contact page](/contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/evan-prasky-815ab5108/).
+I'm always interested in collaborations and discussions about aquatic ecology, human-wildlife conflicts, and conservation. Feel free to reach out through the [contact page](/contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/evan-prasky-815ab5108/).
