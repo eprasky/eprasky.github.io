@@ -7,7 +7,7 @@ feature_image: images/evan_restore_workshop_texas_mental_model.jpg
 
 ## Research Collaboration & Stakeholder Engagement
 
-I offer expertise in **stakeholder engagement** and **socio-ecological research** for organizations working on marine conservation, fisheries management, and human-wildlife conflict issues.
+I offer expertise in stakeholder engagement and socio-ecological research for organizations working on marine conservation, fisheries management, and human-wildlife conflict issues.
 
 ### Areas of Expertise
 
@@ -58,11 +58,11 @@ I have collaborated with various organizations including:
 
 ### Approach
 
-My consulting approach is grounded in **participatory research methods** and **co-production of knowledge**. I believe that the most effective solutions emerge when stakeholders are actively engaged in the research process, ensuring that outcomes are both scientifically rigorous and practically relevant.
+My consulting approach is grounded in participatory research methods and the co-production of knowledge. The most effective solutions emerge when stakeholders are actively engaged in the research process, ensuring that outcomes are both scientifically rigorous and practically relevant.
 
 ### Contact
 
-If you're interested in collaboration or consulting services, please reach out to discuss your specific needs. I'm particularly interested in projects related to:
+If you're interested in collaboration or consulting services, please don't hesitate to contact us to discuss your specific needs. I'm particularly interested in projects related to:
 
 - Marine conservation and fisheries management
 - Human-wildlife conflict research
