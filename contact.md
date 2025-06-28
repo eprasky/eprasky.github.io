@@ -29,7 +29,7 @@ Feel free to reach out!
 
 ### Location
 
-I'm based in **Amherst, Massachusetts** where I'm pursuing my PhD at the University of Massachusetts Amherst.
+I'm based in **Boston, Massachusetts** where I'm pursuing my PhD at the University of Massachusetts Amherst.
 
 ### Response Time
 
