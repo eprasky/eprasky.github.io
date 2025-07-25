@@ -27,6 +27,11 @@ JM Drymon, AE Jargowsky, EG Prasky, EV Camp, A Oliphant, SP Powers, ...
 *Fish and Fisheries* 25(5): 806-810, 2024  
 Cited by: [3](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=11838007728757140266)
 
+- ** [A Framework for Fuzzy Cognitive Mapping Workshops: Shark Depredation as a Case Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:Y0pCki6q_DkC)**
+EG Prasky, JM Drymon, JD Mitchell, GA Jackson, SB Scyphers, SG Gray, ...
+*Fisheries*, 2025, vuaf066.
+
+
 - **[Hemp Hulls Significantly Enhance Growth of the Native North American Shrub Cephalanthus occidentalis (Buttonbush) Rubiaceae](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DRsdaYQAAAAJ&citation_for_view=DRsdaYQAAAAJ:u5HHmVD_uO8C)**  
 BA Connolly, BS Windmiller, CL McElroy, E Prasky  
 *Ecological Restoration* 40(1): 15-17, 2022
